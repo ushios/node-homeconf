@@ -1,6 +1,6 @@
 {
   "name": "homeconf",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "Add setting file easier.",
   "main": "index.js",
   "scripts": {
