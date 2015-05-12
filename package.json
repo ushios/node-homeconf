@@ -1,6 +1,6 @@
 {
   "name": "homeconf",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Add setting fiel easier.",
   "main": "index.js",
   "scripts": {
@@ -11,7 +11,10 @@
     "url": "https://github.com/ushios/node-homeconf"
   },
   "keywords": [
-    "conf"
+    "config",
+    "conf",
+    "env",
+    "home"
   ],
   "author": "Ushio Shugo <ushio.s@gmail.com>",
   "license": "MIT",

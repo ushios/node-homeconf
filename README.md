@@ -5,10 +5,15 @@ HomeConf
 
 Add setting file easier
 
+Installation
+------------
+
+    $ npm install --save homeconf
+
 Usage
 -----
 
-    var homeconf = require("homeconf")
+    var homeconf = require('homeconf')
 
 ### Save config
 
