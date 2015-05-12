@@ -1,2 +1,6 @@
-# node-homeconf
+HomeConf
+=========
+
 Add setting file easier
+
+
