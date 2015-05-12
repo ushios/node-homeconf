@@ -8,6 +8,8 @@ Add setting file easier
 Usage
 -----
 
+    var homeconf = require("homeconf")
+
 ### Save config
 
     homeconf.save('.test_conf', {"key":"value"})
