@@ -1,0 +1,29 @@
+{
+  "name": "homeconf",
+  "version": "0.0.1",
+  "description": "Add setting fiel easier.",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha -R spec"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ushios/node-homeconf"
+  },
+  "keywords": [
+    "conf"
+  ],
+  "author": "Ushio Shugo <ushio.s@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ushios/node-homeconf/issues"
+  },
+  "homepage": "https://github.com/ushios/node-homeconf",
+  "dependencies": {
+    "fs": "0.0.2",
+    "process": "^0.11.0"
+  },
+  "devDependencies": {
+    "mocha": "^2.2.4"
+  }
+}
