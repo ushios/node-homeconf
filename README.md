@@ -1,6 +1,8 @@
 HomeConf
 =========
 
+[![Build Status](https://travis-ci.org/ushios/node-homeconf.svg?branch=master)](https://travis-ci.org/ushios/node-homeconf)
+
 Add setting file easier
 
 Usage
